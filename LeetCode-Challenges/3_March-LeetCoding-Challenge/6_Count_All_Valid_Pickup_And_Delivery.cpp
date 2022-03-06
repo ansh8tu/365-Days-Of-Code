@@ -46,5 +46,5 @@ public:
 
 int main(){
     Solution sol;
-    cout << sol.countOrders(300) << endl;
+    cout << sol.countOrders(300);
 }
